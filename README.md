@@ -6,3 +6,4 @@
 * tree object contains information about all the blob objects and filename that are related to that commit object.
 * commit object contains information about tree object and parent commit object.
 
+![](https://github.com/kante-srikanth/Git-Notes/blob/master/git-internals.gif)
